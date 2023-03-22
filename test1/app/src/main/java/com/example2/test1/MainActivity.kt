@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
                 ).show()
             } else {
 
-                val message = "Welcome $enterName to my Project"
+                val message = "Hello $enterName !!! Welcome to my Project"
                 greetingTextView.text = message
                 inputField.text.clear()
                 offersButton.visibility = VISIBLE
