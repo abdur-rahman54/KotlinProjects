@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string name="hello_android_its_my_first_project">Hello Android, its my first project!</string>
+    <string name="put_your_name">Put Your Name</string>
+    <string name="submit">Submit</string>
+    <string name="view_offers">View Offers</string>
+    <string name="prev">PREV</string>
+
+</resources>
